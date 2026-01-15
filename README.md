@@ -105,7 +105,6 @@ Some sections use Gemini AI for insight summarization.
 
 ---
 
-👤 Author
-
-Dyaneswaran Namasivayam
-📧 Email: dyaneswaran123@gmail.com
+## Author
+**Dyaneswaran Namasivayam**  
+Email: dyaneswaran123@gmail.com
